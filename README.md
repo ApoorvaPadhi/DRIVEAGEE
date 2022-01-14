@@ -1,2 +1,2 @@
 # DRIVEAGEE
-A One Stop for all your Car Needs.
+One Stop Destination for all your Car Needs.
